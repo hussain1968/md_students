@@ -1,0 +1,6 @@
+{
+  "name": "Noor Al-Hikmah Madrassa Portal",
+  "description": "A premium educational platform integrating traditional wisdom with modern AI innovation, featuring student registration and parent-teacher reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Firebase Authentication", "Firestore Database", "AI Integration"]
+}
